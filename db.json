@@ -1,0 +1,12 @@
+{
+  id_usuario: 1,
+      nome_usuario: "Teste",
+      tipo_usuario: "Usuario",
+      permissoes: {
+        id_permissao: 1,
+        realizar_transferencias: 1,
+        realizar_pagamentos: 0,
+        visualizar_extrato: 0,
+        visualizar_resumo: 0,
+      },
+}
